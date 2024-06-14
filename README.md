@@ -10,7 +10,7 @@ The Self Assessment is an introspective process aimed at aiding personal and pro
 
 Recently, my manager requested that our team conduct a Self Assessment and allowed us the freedom to present it in our own way. Being a front-end developer, I decided to create this small presentation project.
 
-![Demo](download.gif)
+![Demo](https://github.com/mariaeduarda2212/Self-Assessment/blob/main/Self%20Assessment/download.gif)
 
 ## Visão Geral
 
